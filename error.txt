@@ -1,5 +1,0 @@
-process[map_server-1]: started with pid [31189]
-[ERROR] [1587343087.099897114]: failed to open image file "/home/workspace/catkin_ws/src/my_robot/maps/<YOUR MAP NAME>": Couldn't open /home/workspace/catkin_ws/src/my_robot/maps/<YOUR MAP NAME>
-[map_server-1] process has died [pid 31189, exit code 255, cmd /opt/ros/kinetic/lib/map_server/map_server /home/workspace/catkin_ws/src/my_robot/maps/myworldmap.yaml __name:=map_server __log:=/root/.ros/log/268afc1c-829f-11ea-b151-0242ac110002/map_server-1.log].
-log file: /root/.ros/log/268afc1c-829f-11ea-b151-0242ac110002/map_server-1*.log
-
